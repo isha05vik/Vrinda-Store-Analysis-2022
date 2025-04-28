@@ -1,4 +1,4 @@
-#Vrinda Store Analysis
+Vrinda Store Analysis
 
 Insights drawn from the Dashboard : 
 
