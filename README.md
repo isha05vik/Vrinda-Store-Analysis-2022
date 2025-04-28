@@ -1,4 +1,6 @@
-Insights drawn from the Vrinda Store Analysis 2022 Dashboard : 
+#Vrinda Store Analysis
+
+Insights drawn from the Dashboard : 
 
 Women are more likely to buy compared to men (~65%)
 Maharashtra,Karnataka and Uttar Pradesh are the top 3 states(~35%) 
